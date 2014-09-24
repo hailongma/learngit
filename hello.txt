@@ -1,2 +1,1 @@
-this is a test note for git
-keep studying is a good behavior.
+git is a free software
