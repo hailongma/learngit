@@ -1,0 +1,2 @@
+this is a test note for git
+keep studying is a good behavior.
